@@ -1,6 +1,8 @@
 # steam-music
 Music capsule images for Steam
 
+![DLC MOD DEMO MUSIC - capsule main sample image](readme.png)
+
 We love soundtracks and music, and Steam remains one of the best places for music from video games to be heard and enjoyed.
 
 Your friends at video game music group Materia Collective have created capsule image templates to use for your music assets. 
